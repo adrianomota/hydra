@@ -1,4 +1,5 @@
-# Hydra
+# Hydra [![Build Actions Status](https://github.com/adrianomota/doctor_schedule/workflows/elixir/badge.svg)](https://github.com/adrianomota/doctor_schedule/actions) [![codecov](https://codecov.io/gh/adrianomota/hydra/branch/main/graph/badge.svg?token=q0GsFe0ffS)](https://codecov.io/gh/adrianomota/hydra)
+
 
 To start your Phoenix server:
 
